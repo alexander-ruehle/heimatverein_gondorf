@@ -7,7 +7,7 @@ section: Besuch
 
 Der Verein bietet verschiedene Möglichkeiten, Gondorf kennenzulernen. Die Angebote werden von Mitgliedern auf Anfrage organisiert:
 
-- Führungen durch historische Orte und Museen
+- Führungen durch historische Orte und dem Museum
 - Dorfrundgänge
 - Weinverkostungen
 - Offener Bürgertreff im Weinmuseum, jeweils am ersten Mittwoch im Monat ab 15:00 Uhr
