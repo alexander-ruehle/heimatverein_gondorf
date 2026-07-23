@@ -1,16 +1,32 @@
 # CONTENT_REVIEW
 
-Die angegebene Vereinswebsite war während der Umsetzung in dieser Umgebung nicht erreichbar. Die folgenden Punkte müssen vor Veröffentlichung mit dem Verein abgeglichen werden:
+Die Originalwebsite war nach einem anfänglichen DNS-Fehler wieder abrufbar. Die folgenden Punkte bleiben vor Veröffentlichung redaktionell bzw. rechtlich zu prüfen:
 
-- [ ] Alle Seiten der Quelle erneut prüfen: Startseite, Verein, Geschichte, Museum, Weinmuseum, Heimatmuseum, Schloss, Führungen, Dorfrundgänge, Weinverkostungen, Bürgertreff, Öffnungszeiten, Eintritt, Vorstand, Kontakt, Anfahrt, Veranstaltungen, Mitgliedschaft, Downloads, Impressum und Datenschutz.
-- [ ] Vereinsname, Anschrift, Telefonnummer, E-Mail-Adresse und Ansprechpartner bestätigen.
-- [ ] Vorstand, Funktionen, Vereinsregister und Vertretungsberechtigung bestätigen.
-- [ ] Öffnungszeiten, Eintrittspreise, Feiertagsregelungen und Anmeldung bestätigen.
+## Inhaltsübersicht und Zielseiten
+
+| Originalseite | Ziel im Jekyll-Projekt |
+| --- | --- |
+| Startseite `/` | `index.md` |
+| Verein `/der-verein` | `verein.md` |
+| Kontakt `/der-verein/kontakt` | `kontakt.md` |
+| Anfahrt `/der-verein/anfahrt` | `anfahrt.md` |
+| Wein- und Heimatmuseum `/wein-heimatmuseum` | `museum.md`, `museum/heimatmuseum.md`, `museum/weinmuseum.md` |
+| Historisches `/historisches` | `historisches.md` |
+| Choralbücher, Kirchenglocken | `historisches/choralbuecher.md`, `historisches/kirchenglocken.md` |
+| Aktuelles `/aktuelles` | `termine/index.md` und `_termine/` |
+| Impressum, Datenschutz | `impressum.md`, `datenschutz.md` |
+| Beitrittsformular und drei Flyer | `mitgliedschaft.md`, `museum.md`, `assets/documents/` |
+
+- [x] Sitemap, Hauptseiten und verlinkte Detailseiten erfasst und Zielseiten zugeordnet.
+- [x] Vereinsname, Anschrift, Telefonnummer, E-Mail-Adresse und Ansprechpartner aus der Quelle übernommen.
+- [ ] Vereinsregister, aktuelle Vertretungsberechtigung und rechtliche Vollständigkeit des Impressums bestätigen; Registergericht und Registernummer waren auf der Quelle nicht angegeben.
+- [ ] Öffnungszeiten, Eintrittspreise, Feiertagsregelung und Anmeldewege für die nächste Saison bestätigen.
 - [ ] Barrierefreiheit, Zugänge, Toiletten und Parkmöglichkeiten für alle Besuchsorte prüfen.
 - [ ] Veranstaltungstermine, Treffpunkte, Kosten und Anmeldewege ergänzen.
-- [ ] Downloads und Formulare aus der Quelle auf Aktualität und Nutzungsrechte prüfen.
-- [ ] Für jedes Bild Urheberrecht, Einwilligungen, Lizenz und Alt-Text dokumentieren. Aktuell wurden keine Originalbilder übernommen.
+- [x] Beitrittsformular und drei Museums-/Rundgangsflyer übernommen.
+- [ ] Downloads und Formulare auf Aktualität und Nutzungsrechte prüfen; der ausführliche Choralbücher-Text-PDF-Link und die historische Fotogalerie waren nicht als direkt abrufbarer Download verlinkt.
+- [ ] Für jedes Bild Urheberrecht, Einwilligungen und Lizenz bestätigen. Übernommen wurden Wappen, Oberburg, Moselblick sowie fünf Sliderbilder; Alt-Texte sind in den eingebundenen Inhalten ergänzt, die übrigen Sliderbilder werden aktuell nicht im Layout verwendet.
 - [ ] Historische Fakten und Schreibweisen fachlich gegenprüfen.
-- [ ] Datenschutzerklärung nach tatsächlichem Hosting und Kontaktweg finalisieren.
-- [ ] Impressum rechtlich vollständig ausfüllen.
+- [ ] Datenschutzerklärung nach tatsächlichem Hosting und Kontaktweg rechtlich finalisieren.
+- [ ] Impressum rechtlich vollständig prüfen.
 - [ ] Nach dem Eintragen der Daten Links, Druckansicht, Mobilmenü und Kontraste prüfen.

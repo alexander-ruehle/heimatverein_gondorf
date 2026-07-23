@@ -1,8 +1,14 @@
 name: Kultur- und Heimatverein Gondorf
-address: ""
-postal_code: ""
-city: Gondorf
-phone: ""
-email: ""
-opening_hours: []
-social: []
+address: Von-der-Leyen-Platz 1A
+postal_code: "56330"
+city: Kobern-Gondorf
+phone: 02607 4460 | 02607 704
+email: info@Kultur-Heimatverein-Gondorf.de
+opening_hours:
+  - label: Museumssaison (jeweils samstags & sonntags | erster Samstag im Mai bis letzten Sonntag im Oktober)
+    value: Samstag 11:00–14:00 Uhr, Sonntag 14:00–16:00 Uhr
+social:
+  - label: Facebook
+    url: https://www.facebook.com/profile.php?id=100080219160902
+  - label: Instagram
+    url: https://www.instagram.com/heimatverein_gondorf/

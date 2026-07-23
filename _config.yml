@@ -21,12 +21,13 @@
 title: Kultur- und Heimatverein Gondorf
 email: ""
 description: >-
-  Der Kultur- und Heimatverein Gondorf bewahrt Geschichte, Kultur und
-  Gemeinschaft im Ort.
+  Der Kultur- und Heimatverein Gondorf e. V. bewahrt Geschichte, Weinbaukultur
+  und Gemeinschaft in Kobern-Gondorf.
 baseurl: ""
 url: "https://www.kultur-heimatverein-gondorf.de"
 lang: de
 timezone: Europe/Berlin
+future: true
 author: Kultur- und Heimatverein Gondorf
 logo: /assets/images/og-default.svg
 

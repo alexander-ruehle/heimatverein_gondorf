@@ -1,6 +1,6 @@
 # Kultur- und Heimatverein Gondorf
 
-Eigenständige, barrierearme Jekyll-Website für den Kultur- und Heimatverein Gondorf. Die Gestaltung verwendet ausschließlich eigenes Vanilla CSS; die Vereinswebsite dient nur als inhaltliche Quelle.
+Eigenständige, barrierearme Jekyll-Website für den Kultur- und Heimatverein Gondorf. Die Gestaltung verwendet ausschließlich eigenes Vanilla CSS.
 
 ## Entwicklung
 

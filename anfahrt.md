@@ -5,5 +5,12 @@ permalink: /anfahrt/
 section: Zu Gast in Gondorf
 ---
 
-<!-- TODO: geprüfte Zieladresse, ÖPNV-, Rad- und Parkhinweise ergänzen. Keine eingebettete Karte verwenden. -->
-Die Anfahrtsinformationen werden nach der redaktionellen Prüfung ergänzt. Eine verlinkte externe Kartenansicht wird nur aufgenommen, wenn sie für den Besuch wirklich hilfreich ist.
+## Ziel
+
+Wein- und Heimatmuseum Gondorf<br>
+Von-der-Leyen-Platz 1A<br>
+56330 Kobern-Gondorf
+
+Parkmöglichkeiten befinden sich direkt vor dem Wein- und Heimatmuseum auf dem Von-der-Leyen-Platz. Das Weinmuseum ist über den Innenhof des Schlosses barrierefrei zugänglich.
+
+[Ziel in OpenStreetMap öffnen](https://www.openstreetmap.org/?mlat=50.290490&mlon=7.456350#map=18/50.290490/7.456350)

@@ -2,7 +2,7 @@
   <div class="container footer-grid">
     <div><p class="eyebrow">Kultur- und Heimatverein</p><p class="footer-title">Gondorf</p><p>Geschichte bewahren. Zukunft gestalten. Gemeinschaft leben.</p></div>
     <nav aria-label="Footer-Navigation"><ul class="footer-links">{% for item in site.data.footer %}<li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>{% endfor %}</ul></nav>
-    <div class="footer-contact"><p class="eyebrow">Kontakt</p>{% if site.data.site.email != '' %}<a href="mailto:{{ site.data.site.email }}">{{ site.data.site.email }}</a>{% else %}<p class="notice">Kontaktdaten werden ergänzt.</p>{% endif %}</div>
+    <div class="footer-contact"><p class="eyebrow">Kontakt</p><a href="mailto:{{ site.data.site.email }}">{{ site.data.site.email }}</a></div>
   </div>
   <div class="container footer-bottom"><span>© {{ 'now' | date: '%Y' }} {{ site.title }}</span><span>Mit Sorgfalt für Gondorf</span></div>
 </footer>
