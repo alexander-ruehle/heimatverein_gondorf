@@ -24,8 +24,8 @@ Die Originalwebsite war nach einem anfänglichen DNS-Fehler wieder abrufbar. Die
 - [ ] Barrierefreiheit, Zugänge, Toiletten und Parkmöglichkeiten für alle Besuchsorte prüfen.
 - [ ] Veranstaltungstermine, Treffpunkte, Kosten und Anmeldewege ergänzen.
 - [x] Beitrittsformular und drei Museums-/Rundgangsflyer übernommen.
-- [ ] Downloads und Formulare auf Aktualität und Nutzungsrechte prüfen; der ausführliche Choralbücher-Text-PDF-Link und die historische Fotogalerie waren nicht als direkt abrufbarer Download verlinkt.
-- [ ] Für jedes Bild Urheberrecht, Einwilligungen und Lizenz bestätigen. Übernommen wurden Wappen, Oberburg, Moselblick, fünf Sliderbilder sowie vier Bilder aus dem Beitrag „Die Kirchenglocken von Gondorf“; Alt-Texte sind in den eingebundenen Inhalten ergänzt, die übrigen Sliderbilder werden aktuell nicht im Layout verwendet.
+- [ ] Downloads und Formulare auf Aktualität und Nutzungsrechte prüfen. Für den Choralbücher-Beitrag wurden das verlinkte Choralbücher-PDF und der Rhein-Zeitung-PDF-Artikel übernommen.
+- [ ] Für jedes Bild Urheberrecht, Einwilligungen und Lizenz bestätigen. Übernommen wurden Wappen, Oberburg, Moselblick, fünf Sliderbilder, vier Bilder aus dem Beitrag „Die Kirchenglocken von Gondorf“ sowie sieben redaktionelle und sieben Galerie-Bilder aus dem Choralbücher-Beitrag; Alt-Texte und Bildunterschriften sind ergänzt.
 - [ ] Historische Fakten und Schreibweisen fachlich gegenprüfen.
 - [ ] Datenschutzerklärung nach tatsächlichem Hosting und Kontaktweg rechtlich finalisieren.
 - [ ] Impressum rechtlich vollständig prüfen.
