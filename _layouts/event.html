@@ -1,0 +1,4 @@
+---
+layout: default
+---
+<article class="prose event-detail"><p class="eyebrow">Veranstaltung</p><h1>{{ page.title }}</h1><p class="event-meta"><time datetime="{{ page.date | date: '%Y-%m-%d' }}">{{ page.date | date: '%d.%m.%Y, %H:%M Uhr' }}</time>{% if page.location %} · {{ page.location }}{% endif %}</p>{{ content }}</article>
