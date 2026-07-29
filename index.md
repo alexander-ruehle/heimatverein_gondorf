@@ -18,7 +18,10 @@ permalink: /
   <div class="hero__mark" aria-hidden="true"><span>G</span><small>Gondorf</small></div>
 </section>
 
-![Blick auf die Oberburg in Gondorf]({{ '/assets/images/oberburg-gondorf.jpg' | relative_url }}){: loading="lazy" }
+<figure class="page-feature">
+  <img src="{{ '/assets/images/oberburg-gondorf.jpg' | relative_url }}" alt="Blick auf die Oberburg in Gondorf" loading="lazy">
+  <figcaption>Blick auf die Oberburg in Gondorf</figcaption>
+</figure>
 
 <section class="section section--tint" aria-labelledby="welcome-title">
   <div class="section-heading"><p class="eyebrow">Willkommen</p><h2 id="welcome-title">Ein Ort mit vielen Geschichten</h2></div>

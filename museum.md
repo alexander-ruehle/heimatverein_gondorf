@@ -7,7 +7,10 @@ section: Entdecken
 
 Im Schloss von der Leyen zeigt der Verein ein Wein- und Heimatmuseum. Der Eintritt ist frei; das Museum ist in der Saison vom ersten Samstag im Mai bis zum letzten Sonntag im Oktober geöffnet (jeweils samstags & sonntags).
 
-![Blick über die Mosel auf Gondorf]({{ '/assets/images/blick-ueber-die-mosel-auf-gondorf.jpg' | relative_url }}){: loading="lazy" }
+<figure class="page-feature">
+  <img src="{{ '/assets/images/slider-weinmuseum-innenraum.jpg' | relative_url }}" alt="Innenraum des Weinmuseums in Gondorf" loading="lazy">
+  <figcaption>Einblick in das Wein- und Heimatmuseum im Schloss von der Leyen</figcaption>
+</figure>
 
 Im Schloss von der Leyen, ursprünglich die einzige Wasserburg an der Mosel, hat der Kultur- und Heimatverein Gondorf e.V ein Weinmuseum geschaffen, das dem Besucher Einblicke in die historischen Weinbau- und Kellergeräte, die an der Untermosel verwendet wurden, vermittelt. Zum Museum gehört auch eine Vinothek, in der Weine der verschiedenen Weingüter von Kobern-Gondorf vorzufinden sind, die auch verkostet werden können.
 

@@ -124,6 +124,25 @@ h1, h2, h3 {
     font: 1.3rem var(--serif);
 }
 
+.prose figure {
+    margin: 2.5rem 0;
+}
+
+.prose figure img {
+    display: block;
+    width: 100%;
+    max-height: 30rem;
+    object-fit: contain;
+    background: var(--cream);
+}
+
+.prose figcaption {
+    padding-top: 0.65rem;
+    color: var(--ink-soft);
+    font-size: 0.85rem;
+    line-height: 1.45;
+}
+
 .intro-text {
     font: 1.4rem/1.45 var(--serif);
     max-width: 42rem;
@@ -151,6 +170,44 @@ h1, h2, h3 {
 .prose {
     width: min(calc(100% - 2rem), var(--max));
     margin-inline: auto;
+}
+
+.page-feature {
+    margin: 0 0 3rem;
+}
+
+.page-feature img {
+    display: block;
+    width: 100%;
+    height: clamp(12rem, 34vw, 24rem);
+    object-fit: cover;
+    box-shadow: var(--shadow);
+}
+
+.page-feature figcaption {
+    padding-top: 0.65rem;
+    color: var(--ink-soft);
+    font-size: 0.85rem;
+}
+
+.image-gallery {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1rem;
+    margin-top: 2rem;
+}
+
+.image-gallery figure {
+    margin: 0;
+}
+
+.image-gallery img {
+    height: clamp(10rem, 24vw, 16rem);
+    object-fit: cover;
+}
+
+.image-gallery figcaption {
+    font-size: 0.78rem;
 }
 
 .section-heading {
@@ -594,6 +651,10 @@ input, select, textarea {
 
     .footer-grid {
         grid-template-columns: 1.4fr 1fr 1fr;
+    }
+
+    .image-gallery {
+        grid-template-columns: repeat(3, minmax(0, 1fr));
     }
 }
 

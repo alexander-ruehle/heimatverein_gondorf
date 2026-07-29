@@ -11,17 +11,25 @@ description: Choralbücher im Gondorfer Heimatmuseum.
   <figcaption>Titelblatt des Gondorfer Graduale nach der Restaurierung</figcaption>
 </figure>
 
-Im Bestand des Kultur- und Heimatvereins Gondorf befinden sich drei liturgische Handschriften aus der ersten Hälfte des 18. Jahrhunderts. Die Bücher wurden federführend durch die damaligen Gondorfer Schulmeister in mühevoller Handarbeit erstellt. Damit sind diese Objekte Kulturgut mit regionalem Bezug zur Gemeinde Gondorf.
+Im Bestand des Kultur- und Heimatvereins Gondorf befinden sich drei liturgische Handschriften aus der ersten Hälfte des
 
-Durch langjährige Nutzung in Sonn- und Feiertäglichen Gottesdiensten und späterer unsachgemäßer Lagerung und Behandlung waren die wertvollen Bücher verschlissen, verschmutzt und „aus dem Leim“ geraten.
+18. Jahrhunderts. Die Bücher wurden federführend durch die damaligen Gondorfer Schulmeister in mühevoller Handarbeit
+    erstellt. Damit sind diese Objekte Kulturgut mit regionalem Bezug zur Gemeinde Gondorf.
 
-Gefördert durch das Land RLP und mit Unterstützung durch das Landesbiblio- thekszentrum RLP - Landesstelle Bestandserhaltung konnten die Bücher im Jahr 2021 fachgerecht unter Beibehaltung der originalen Substanz restauriert werden. Damit können die Bücher bei Fortbestand der aktuellen Aufbewahrung weitere Jahrhunderte überdauern.
+Durch langjährige Nutzung in Sonn- und Feiertäglichen Gottesdiensten und späterer unsachgemäßer Lagerung und Behandlung
+waren die wertvollen Bücher verschlissen, verschmutzt und „aus dem Leim“ geraten.
+
+Gefördert durch das Land RLP und mit Unterstützung durch das Landesbiblio- thekszentrum RLP - Landesstelle
+Bestandserhaltung konnten die Bücher im Jahr 2021 fachgerecht unter Beibehaltung der originalen Substanz restauriert
+werden. Damit können die Bücher bei Fortbestand der aktuellen Aufbewahrung weitere Jahrhunderte überdauern.
 
 Die Handschriften sind im Archivraum des Heimatmuseums ausgestellt.
 
 ## Objektbeschreibung
 
-Als Schreibmaterial benutzte man für die drei Bücher das damals gebräuchliche Hadernpapier, das in Papiermühlen aus Lumpen hergestellt wurde. An Hand der Wasserzeichen lässt sich feststellen, dass das Papier großteils aus einer Basler Papiermühle stammte.
+Als Schreibmaterial benutzte man für die drei Bücher das damals gebräuchliche Hadernpapier, das in Papiermühlen aus
+Lumpen hergestellt wurde. An Hand der Wasserzeichen lässt sich feststellen, dass das Papier großteils aus einer Basler
+Papiermühle stammte.
 
 <figure>
   <img src="{{ '/assets/images/choralbuecher/wasserzeichen-nic-heisler.jpeg' | relative_url }}" alt="Choralbücher Heimatmuseum Gondorf" loading="lazy">
@@ -45,7 +53,9 @@ Das Buch wurde im 18. Jahrhundert in der Gondorfer Pfarrkirche bei Festgottesdie
   <img src="{{ '/assets/images/choralbuecher/graduale-titelblattfragment.jpeg' | relative_url }}" alt="Choralbücher Heimatmuseum Gondorf" loading="lazy">
 </figure>
 
-Da nur noch ein Titelblattfragment vorhanden ist, sind Herkunft und Schreiber nicht bekannt. Einige Ergänzungen im Buch wurden aber aus der Hand desSchulmeister Meurer getätigt. Daraus lässt sich ableiten, dass auch dieses Exemplar in Gondorf genutzt wurde.
+Da nur noch ein Titelblattfragment vorhanden ist, sind Herkunft und Schreiber nicht bekannt. Einige Ergänzungen im Buch
+wurden aber aus der Hand desSchulmeister Meurer getätigt. Daraus lässt sich ableiten, dass auch dieses Exemplar in
+Gondorf genutzt wurde.
 
 Der Buchspiegel vorne war mit handschriftlichen Messbuchfragmenten aus dem 15. Jahrhunderts ausgekleidet:
 
@@ -53,9 +63,11 @@ Der Buchspiegel vorne war mit handschriftlichen Messbuchfragmenten aus dem 15. J
   <img src="{{ '/assets/images/choralbuecher/makulatur-pergament.jpeg' | relative_url }}" alt="ri 4" loading="lazy">
 </figure>
 
-Besonders bemerkenswert ist in diesem Exemplar das bei der Restaurierung aus dem vorderen Buchspiegel isolierte Pergament, das als Makulatur eigeklebt war.
+Besonders bemerkenswert ist in diesem Exemplar das bei der Restaurierung aus dem vorderen Buchspiegel isolierte
+Pergament, das als Makulatur eigeklebt war.
 
-Für das Buchbinden wurden unter anderem im Mittelalter vor allem das Pergament nicht mehr benötigter Bücher als Makulatur zur Verstärkung in Einbänden verwendet.
+Für das Buchbinden wurden unter anderem im Mittelalter vor allem das Pergament nicht mehr benötigter Bücher als
+Makulatur zur Verstärkung in Einbänden verwendet.
 
 Dadurch wurden Werke fragmentarisch in die Gegenwart überliefert, die ansonsten verloren gegangen wären.
 
@@ -77,11 +89,15 @@ Das Buch wurde für den Chorgesang in Vespern an Sonn- und Feiertagen gefertigt 
 
 ## Downloads
 
-- Download des gesamten Texts zur den Choralbüchern im Gondorfer Heimatmuseum als PDF Datei: [Choralbücher im Heimatmuseom.pdf]({{ '/assets/documents/choralbuecher-im-heimatmuseum.pdf' | relative_url }})<br>
-- Rhein-Zeitung, 27.04.2023: [„Wertvolle Choralbücher“]({{ '/assets/documents/rhein-zeitung-wertvolle-choralbuecher.pdf' | relative_url }})
+- Download des gesamten Texts zur den Choralbüchern im Gondorfer Heimatmuseum als PDF
+  Datei: [Choralbücher im Heimatmuseom.pdf]({{ '/assets/documents/choralbuecher-im-heimatmuseum.pdf' |
+  relative_url }})
+- Rhein-Zeitung, 27.04.2023: [„Wertvolle Choralbücher“]({{
+  '/assets/documents/rhein-zeitung-wertvolle-choralbuecher.pdf' | relative_url }})
 
 ## Fotogalerie Choralbücher
 
+<div class="image-gallery">
 <figure>
   <img src="{{ '/assets/images/choralbuecher/galerie-01.jpg' | relative_url }}" alt="Choralbücher Museum Gondorf" loading="lazy">
   <figcaption>Choralbücher Museum Gondorf</figcaption>
@@ -116,3 +132,4 @@ Das Buch wurde für den Chorgesang in Vespern an Sonn- und Feiertagen gefertigt 
   <img src="{{ '/assets/images/choralbuecher/galerie-07.jpg' | relative_url }}" alt="Choralbücher Museum Gondorf" loading="lazy">
   <figcaption>Choralbücher Museum Gondorf</figcaption>
 </figure>
+</div>
