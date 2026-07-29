@@ -29,7 +29,7 @@ lang: de
 timezone: Europe/Berlin
 future: true
 author: Kultur- und Heimatverein Gondorf
-logo: /assets/images/og-default.svg
+logo: /assets/images/wappen-kultur-heimatverein-gondorf.png
 
 # Build settings
 plugins:
