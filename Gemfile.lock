@@ -1,13 +1,10 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    Platform (0.4.2)
     addressable (2.9.0)
       public_suffix (>= 2.0.2, < 8.0)
     base64 (0.3.0)
     bigdecimal (4.1.2)
-    clean_css (0.1.1)
-      popen4
     colorator (1.1.0)
     concurrent-ruby (1.3.8)
     csv (3.3.5)
@@ -15,7 +12,6 @@ GEM
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
     eventmachine (1.2.7)
-    execjs (2.10.1)
     ffi (1.17.4)
     ffi (1.17.4-aarch64-linux-gnu)
     ffi (1.17.4-aarch64-linux-musl)
@@ -96,12 +92,8 @@ GEM
       rb-inotify (~> 0.9, >= 0.9.10)
     logger (1.7.0)
     mercenary (0.4.0)
-    open4 (1.3.4)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
-    popen4 (0.1.2)
-      Platform (>= 0.4.0)
-      open4 (>= 0.4.0)
     public_suffix (7.0.5)
     rake (13.4.2)
     rb-fsevent (0.11.2)
@@ -143,8 +135,6 @@ GEM
       google-protobuf (~> 4.31)
     terminal-table (3.0.2)
       unicode-display_width (>= 1.1.1, < 3)
-    uglifier (4.2.1)
-      execjs (>= 0.3.0, < 3)
     unicode-display_width (2.6.0)
     webrick (1.9.2)
 
@@ -170,14 +160,12 @@ PLATFORMS
   x86_64-linux-musl
 
 DEPENDENCIES
-  clean_css (>= 0.1.1)
   http_parser.rb (~> 0.6.0)
   jekyll (~> 4.4.1)
   jekyll-feed (~> 0.17)
   jekyll-minibundle (>= 4.0)
   tzinfo (>= 1, < 3)
   tzinfo-data
-  uglifier (>= 4.2.1)
   wdm (~> 0.1)
 
 BUNDLED WITH

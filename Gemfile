@@ -35,9 +35,3 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 # asset concatenation for bundling and asset fingerprinting with MD5 digest for cache busting. There are no other
 # runtime dependencies besides the minification tool (not even other gems). [https://github.com/tkareine/jekyll-minibundle]
 gem "jekyll-minibundle", ">= 4.0"
-
-# Uglifier minifies JavaScript files by wrapping UglifyJS to be accessible in Ruby [https://github.com/lautis/uglifier]
-gem "uglifier", ">= 4.2.1"
-
-# Ruby interface for clean-css (powered by node) [https://github.com/kwappa/ruby-clean_css]
-gem "clean_css", ">= 0.1.1"
