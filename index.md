@@ -20,7 +20,6 @@ permalink: /
 
 <figure class="page-feature">
   <img src="{{ '/assets/images/oberburg-gondorf.jpg' | relative_url }}" alt="Blick auf die Oberburg in Gondorf" loading="lazy">
-  <figcaption>Blick auf die Oberburg in Gondorf</figcaption>
 </figure>
 
 <section class="section section--tint" aria-labelledby="welcome-title">
