@@ -263,15 +263,12 @@ h1, h2, h3 {
     line-height: 1.2;
 }
 
-.brand__seal {
-    display: grid;
-    place-items: center;
-    width: 2.7rem;
-    height: 2.7rem;
-    border: 1px solid var(--gold);
-    border-radius: 50%;
-    font: 1.35rem var(--serif);
-    color: var(--clay);
+.brand__crest {
+    display: block;
+    width: 3rem;
+    height: 4rem;
+    object-fit: contain;
+    flex: 0 0 auto;
 }
 
 .brand strong,
