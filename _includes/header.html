@@ -1,0 +1,17 @@
+<header class="site-header">
+    <div class="container header-inner">
+        <a class="brand" href="{{ '/' | relative_url }}" aria-label="{{ site.title }} – Startseite"><img
+                class="brand__crest"
+                src="{{ site.baseurl }}/{% ministamp /assets/images/wappen-kultur-heimatverein-gondorf-nav.png assets/logo-nav.png %}" width="48"
+                height="64" alt=""><span><strong>Kultur- und Heimatverein</strong><small>Gondorf</small></span></a>
+        <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="site-navigation"><span
+                class="sr-only">Menü</span><span aria-hidden="true">☰</span></button>
+        <nav id="site-navigation" class="site-nav" aria-label="Hauptnavigation">
+            <ul>{% for item in site.data.navigation %}
+                <li><a href="{{ item.url | relative_url }}" {% if page.url== item.url %} aria-current="page" {% endif
+                       %}>{{ item.title }}</a></li>
+                {% endfor %}
+            </ul>
+        </nav>
+    </div>
+</header>

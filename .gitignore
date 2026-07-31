@@ -3,3 +3,11 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+# Ignore RubyMine Jetbrains & Junie config files
+/.idea
+/.junie/*
+!/.junie
+!/.junie/AGENTS.md
+
+# Ignore MacOS X DS_Store files in all directories and subdirectories
+.DS_Store

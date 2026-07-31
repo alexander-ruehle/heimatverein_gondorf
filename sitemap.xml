@@ -1,0 +1,6 @@
+---
+layout: null
+permalink: /sitemap.xml
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">{% for page in site.pages %}{% if page.url and page.url != '/404.html' %}<url><loc>{{ page.url | absolute_url }}</loc></url>{% endif %}{% endfor %}{% for event in site.termine %}<url><loc>{{ event.url | absolute_url }}</loc></url>{% endfor %}</urlset>

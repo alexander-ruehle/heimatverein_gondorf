@@ -18,21 +18,53 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+title: Kultur- und Heimatverein Gondorf
+email: ""
+description: >-
+  Der Kultur- und Heimatverein Gondorf e. V. bewahrt Geschichte, Weinbaukultur
+  und Gemeinschaft in Kobern-Gondorf.
+baseurl: ""
+url: "https://www.kultur-heimatverein-gondorf.de"
+lang: de
+timezone: Europe/Berlin
+future: true
+author: Kultur- und Heimatverein Gondorf
+logo: /assets/images/wappen-kultur-heimatverein-gondorf.png
 
 # Build settings
-theme: minima
 plugins:
   - jekyll-feed
+  - jekyll/minibundle
+
+collections:
+  termine:
+    output: true
+    permalink: /termine/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: default
+  - scope:
+      path: ""
+      type: "termine"
+    values:
+      layout: event
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+exclude:
+  - README.md
+  - CONTENT_REVIEW.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - node_modules/
 
 # Exclude from processing.
 # The following items will not be processed, by default.
