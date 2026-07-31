@@ -12,7 +12,7 @@ Wo die erste Kirche in Gondorf, etwa 600 n. Chr., stand, ist nicht überliefert.
 Um 1400 n. Chr. soll es bereits eine Kirchenglocke in Gondorf gegeben haben. Die erste überlieferte Glocke trug die Jahreszahl 1669. In einem Inventarverzeichnis vom 13.10.1818 vermerkt der damalige Pfarrer Heinrich Pietiens 3 Glocken, die sich in einem baufälligen Wehrturm neben der damaligen Kirche befinden. Diese Kirche stand südlich der Schlossanlage und wurde 1736 konsekriert. Beim Bau der Moseleisenbahn 1874 - 1879 wurde diese Kirche 1876 mit dem Glockenturm und dem umliegenden Friedhof abgerissen. Der Glockenturm war, nach Hinweisen älterer Gondorfer Bürger, der heute noch als Teilruine vorhandene und unmittelbar neben der Bahnlinie gelegene Turm.
 
 <figure>
-  <img src="{{ '/assets/images/kirchenglocken/kirchenglocken-wehrturm.jpeg' | relative_url }}" alt="Der Wehrturm neben der Bahnlinie" loading="lazy">
+  <img src="{{ site.baseurl }}/{% ministamp /assets/images/kirchenglocken/kirchenglocken-wehrturm.jpeg assets/glocken-wehrturm.jpeg %}" alt="Der Wehrturm neben der Bahnlinie" loading="lazy">
   <figcaption>Gemäldeausschnitt mit der alten Gondorfer Kirche von Domenico Quaglios Besuch an der Mosel, 1827.</figcaption>
 </figure>
 
@@ -30,7 +30,7 @@ Zur Erinnerung an die Opfer des 1. Weltkrieges wurden auf dieser Glocke alle Nam
 Die dritte und kleinste Glocke war 10 Zentner schwer und wurde dem „hl. Hubertus“ geweiht.
 
 <figure>
-  <img src="{{ '/assets/images/kirchenglocken/kirchenglockenweihe-1927.png' | relative_url }}" alt="Glockenweihe 1927" loading="lazy">
+  <img src="{{ site.baseurl }}/{% ministamp /assets/images/kirchenglocken/kirchenglockenweihe-1927.png assets/glocken-weihe-1927.png %}" alt="Glockenweihe 1927" loading="lazy">
   <figcaption>Glockenweihe 1927; Am Sonntag, den 17. Juli 1927, wurden die Glocken eingeweiht. Pfarrer Wilhelm Simon aus Lay hielt die Festpredigt</figcaption>
 </figure>
 
@@ -41,12 +41,12 @@ Es waren die 26 Zentner wiegende große Glocke ( auf den Ton „e“ gestimmt ) 
 Am Sonntag, den 18. Juli 1954, um 15.00 Uhr, fand die feierliche Glockenweihe unter grosser Teilnahme der Gondorfer und Dreckenacher Bürger statt.
 
 <figure>
-  <img src="{{ '/assets/images/kirchenglocken/kirchenglockenweihe-1954.png' | relative_url }}" alt="Glockenweihe 1954" loading="lazy">
+  <img src="{{ site.baseurl }}/{% ministamp /assets/images/kirchenglocken/kirchenglockenweihe-1954.png assets/glocken-weihe-1954.png %}" alt="Glockenweihe 1954" loading="lazy">
   <figcaption>Glockenweihe 1954; Am Sonntag, den 18.Juli 1954, um 15.00 Uhr, begann die feierliche Glockenweihe in der Gondorfer Pfarrkirche. Dechant Jakob Willems nahm die Weihe der Glocken vor.</figcaption>
 </figure>
 
 <figure>
-  <img src="{{ '/assets/images/kirchenglocken/glocken-westturm-2023.jpeg' | relative_url }}" alt="Die Glocken im Westturm des Schlosses von der Leyen (2023)" loading="lazy">
+  <img src="{{ site.baseurl }}/{% ministamp /assets/images/kirchenglocken/glocken-westturm-2023.jpeg assets/glocken-2023.jpeg %}" alt="Die Glocken im Westturm des Schlosses von der Leyen (2023)" loading="lazy">
   <figcaption>Die Glocken im Westturm des Schlosses von der Leyen ( 2023 )
 v. l. geweiht dem hl. Joseph, der hl. Maria und dem hl. Johannes Ap.</figcaption>
 </figure>

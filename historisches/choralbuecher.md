@@ -7,7 +7,7 @@ description: Choralbücher im Gondorfer Heimatmuseum.
 ---
 
 <figure>
-  <img src="{{ '/assets/images/choralbuecher/titelblatt-graduale.jpeg' | relative_url }}" alt="Titelblatt des Gondorfer Graduale nach der Restaurierung" loading="lazy">
+  <img src="{{ site.baseurl }}/{% ministamp /assets/images/choralbuecher/titelblatt-graduale.jpeg assets/choral-titel.jpeg %}" alt="Titelblatt des Gondorfer Graduale nach der Restaurierung" loading="lazy">
   <figcaption>Titelblatt des Gondorfer Graduale nach der Restaurierung</figcaption>
 </figure>
 
@@ -32,7 +32,7 @@ Lumpen hergestellt wurde. An Hand der Wasserzeichen lässt sich feststellen, da
 Papiermühle stammte.
 
 <figure>
-  <img src="{{ '/assets/images/choralbuecher/wasserzeichen-nic-heisler.jpeg' | relative_url }}" alt="Choralbücher Heimatmuseum Gondorf" loading="lazy">
+  <img src="{{ site.baseurl }}/{% ministamp /assets/images/choralbuecher/wasserzeichen-nic-heisler.jpeg assets/choral-wasserzeichen.jpeg %}" alt="Choralbücher Heimatmuseum Gondorf" loading="lazy">
   <figcaption>Bild: Ausschnitt mit dem Wasserzeichen „NIC HEISLER“</figcaption>
 </figure>
 
@@ -43,14 +43,14 @@ Erstellt vom Gondorfer Schulmeister Johannes Petrus Meurer.
 Das Buch wurde im 18. Jahrhundert in der Gondorfer Pfarrkirche bei Festgottesdiensten genutzt.
 
 <figure>
-  <img src="{{ '/assets/images/choralbuecher/graduale-beispielseite.jpeg' | relative_url }}" alt="Choralbücher Heimatmuseum Gondorf" loading="lazy">
+  <img src="{{ site.baseurl }}/{% ministamp /assets/images/choralbuecher/graduale-beispielseite.jpeg assets/choral-beispiel.jpeg %}" alt="Choralbücher Heimatmuseum Gondorf" loading="lazy">
   <figcaption>Beispielseite aus dem Gondorfer Graduale. Zustand vor der Restaurierung.</figcaption>
 </figure>
 
 ### 2 – Graduale, Handschrift vermutlich frühes 18. Jahrhundert
 
 <figure>
-  <img src="{{ '/assets/images/choralbuecher/graduale-titelblattfragment.jpeg' | relative_url }}" alt="Choralbücher Heimatmuseum Gondorf" loading="lazy">
+  <img src="{{ site.baseurl }}/{% ministamp /assets/images/choralbuecher/graduale-titelblattfragment.jpeg assets/choral-fragment.jpeg %}" alt="Choralbücher Heimatmuseum Gondorf" loading="lazy">
 </figure>
 
 Da nur noch ein Titelblattfragment vorhanden ist, sind Herkunft und Schreiber nicht bekannt. Einige Ergänzungen im Buch
@@ -60,7 +60,7 @@ Gondorf genutzt wurde.
 Der Buchspiegel vorne war mit handschriftlichen Messbuchfragmenten aus dem 15. Jahrhunderts ausgekleidet:
 
 <figure>
-  <img src="{{ '/assets/images/choralbuecher/makulatur-pergament.jpeg' | relative_url }}" alt="ri 4" loading="lazy">
+  <img src="{{ site.baseurl }}/{% ministamp /assets/images/choralbuecher/makulatur-pergament.jpeg assets/choral-makulatur.jpeg %}" alt="ri 4" loading="lazy">
 </figure>
 
 Besonders bemerkenswert ist in diesem Exemplar das bei der Restaurierung aus dem vorderen Buchspiegel isolierte
@@ -78,12 +78,12 @@ Erstellt unter Mitwirkung des Gondorfer Schulmeisters Johannes Petrus Meurer.
 Das Buch wurde für den Chorgesang in Vespern an Sonn- und Feiertagen gefertigt und genutzt.
 
 <figure>
-  <img src="{{ '/assets/images/choralbuecher/antiphonar-restauriert.jpeg' | relative_url }}" alt="ri 6" loading="lazy">
+  <img src="{{ site.baseurl }}/{% ministamp /assets/images/choralbuecher/antiphonar-restauriert.jpeg assets/choral-antiphonar.jpeg %}" alt="ri 6" loading="lazy">
   <figcaption>Bild: Antiphonar, Zustand nach der Restaurierung</figcaption>
 </figure>
 
 <figure>
-  <img src="{{ '/assets/images/choralbuecher/antiphonar-notation.jpeg' | relative_url }}" alt="ri 7" loading="lazy">
+  <img src="{{ site.baseurl }}/{% ministamp /assets/images/choralbuecher/antiphonar-notation.jpeg assets/choral-notation.jpeg %}" alt="ri 7" loading="lazy">
   <figcaption>Bild: Zwei Seiten aus dem Antiphonar, links von einem unbekannten Schreiber. Er nutzte die Hufnagelnotation. Rechts geschrieben vom Schulmeister Meurer mit Anwendung der Quadratnotation.</figcaption>
 </figure>
 
@@ -99,37 +99,37 @@ Das Buch wurde für den Chorgesang in Vespern an Sonn- und Feiertagen gefertigt 
 
 <div class="image-gallery">
 <figure>
-  <img src="{{ '/assets/images/choralbuecher/galerie-01.jpg' | relative_url }}" alt="Choralbücher Museum Gondorf" loading="lazy">
+  <img src="{{ site.baseurl }}/{% ministamp /assets/images/choralbuecher/galerie-01.jpg assets/choral-gal-01.jpg %}" alt="Choralbücher Museum Gondorf" loading="lazy">
   <figcaption>Choralbücher Museum Gondorf</figcaption>
 </figure>
 
 <figure>
-  <img src="{{ '/assets/images/choralbuecher/galerie-02.jpg' | relative_url }}" alt="Choralbücher Museum Gondorf" loading="lazy">
+  <img src="{{ site.baseurl }}/{% ministamp /assets/images/choralbuecher/galerie-02.jpg assets/choral-gal-02.jpg %}" alt="Choralbücher Museum Gondorf" loading="lazy">
   <figcaption>Choralbücher Museum Gondorf</figcaption>
 </figure>
 
 <figure>
-  <img src="{{ '/assets/images/choralbuecher/galerie-03.jpg' | relative_url }}" alt="Choralbücher Museum Gondorf" loading="lazy">
+  <img src="{{ site.baseurl }}/{% ministamp /assets/images/choralbuecher/galerie-03.jpg assets/choral-gal-03.jpg %}" alt="Choralbücher Museum Gondorf" loading="lazy">
   <figcaption>Choralbücher Museum Gondorf</figcaption>
 </figure>
 
 <figure>
-  <img src="{{ '/assets/images/choralbuecher/galerie-04.jpg' | relative_url }}" alt="Choralbücher Museum Gondorf" loading="lazy">
+  <img src="{{ site.baseurl }}/{% ministamp /assets/images/choralbuecher/galerie-04.jpg assets/choral-gal-04.jpg %}" alt="Choralbücher Museum Gondorf" loading="lazy">
   <figcaption>Choralbücher Museum Gondorf</figcaption>
 </figure>
 
 <figure>
-  <img src="{{ '/assets/images/choralbuecher/galerie-05.jpg' | relative_url }}" alt="Choralbücher Museum Gondorf" loading="lazy">
+  <img src="{{ site.baseurl }}/{% ministamp /assets/images/choralbuecher/galerie-05.jpg assets/choral-gal-05.jpg %}" alt="Choralbücher Museum Gondorf" loading="lazy">
   <figcaption>Choralbücher Museum Gondorf</figcaption>
 </figure>
 
 <figure>
-  <img src="{{ '/assets/images/choralbuecher/galerie-06.jpg' | relative_url }}" alt="Choralbücher Museum Gondorf" loading="lazy">
+  <img src="{{ site.baseurl }}/{% ministamp /assets/images/choralbuecher/galerie-06.jpg assets/choral-gal-06.jpg %}" alt="Choralbücher Museum Gondorf" loading="lazy">
   <figcaption>Choralbücher Museum Gondorf</figcaption>
 </figure>
 
 <figure>
-  <img src="{{ '/assets/images/choralbuecher/galerie-07.jpg' | relative_url }}" alt="Choralbücher Museum Gondorf" loading="lazy">
+  <img src="{{ site.baseurl }}/{% ministamp /assets/images/choralbuecher/galerie-07.jpg assets/choral-gal-07.jpg %}" alt="Choralbücher Museum Gondorf" loading="lazy">
   <figcaption>Choralbücher Museum Gondorf</figcaption>
 </figure>
 </div>

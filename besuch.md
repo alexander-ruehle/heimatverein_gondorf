@@ -8,7 +8,7 @@ section: Zu Gast in Gondorf
 Ob Museum, Führung, Dorfrundgang oder Weinverkostung: Ihren Besuch können Sie mit den folgenden Informationen vorbereiten. Das Museum liegt am Von-der-Leyen-Platz 1A in 56330 Kobern-Gondorf.
 
 <figure class="page-feature">
-  <img src="{{ '/assets/images/slider-tafelrunde.jpg' | relative_url }}" alt="Tafelrunde im Weinmuseum" loading="lazy">
+  <img src="{{ site.baseurl }}/{% ministamp /assets/images/slider-tafelrunde.jpg assets/besuch-tafelrunde.jpg %}" alt="Tafelrunde im Weinmuseum" loading="lazy">
   <figcaption>Im Museum wird Geschichte bei Führungen und Begegnungen lebendig.</figcaption>
 </figure>
 

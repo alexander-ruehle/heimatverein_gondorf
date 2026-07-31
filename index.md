@@ -19,7 +19,7 @@ permalink: /
 </section>
 
 <figure class="page-feature">
-  <img src="{{ '/assets/images/oberburg-gondorf.jpg' | relative_url }}" alt="Blick auf die Oberburg in Gondorf" loading="lazy">
+  <img src="{{ site.baseurl }}/{% ministamp /assets/images/oberburg-gondorf.jpg assets/home-oberburg.jpg %}" alt="Blick auf die Oberburg in Gondorf" loading="lazy">
 </figure>
 
 <section class="section section--tint" aria-labelledby="welcome-title">

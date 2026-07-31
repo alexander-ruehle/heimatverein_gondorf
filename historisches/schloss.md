@@ -8,7 +8,7 @@ section: Historisches
 Das Schloss von der Leyen war ursprünglich die einzige Wasserburg an der Mosel. Heute beherbergt es das Wein- und Heimatmuseum des Vereins. In der ehemaligen Turmwohnung befindet sich ein Trauzimmer, in dem sich Brautpaare das Ja-Wort geben können.
 
 <figure class="page-feature">
-  <img src="{{ '/assets/images/slider-trauzimmer.jpg' | relative_url }}" alt="Trauzimmer im Schloss von der Leyen" loading="lazy">
+  <img src="{{ site.baseurl }}/{% ministamp /assets/images/slider-trauzimmer.jpg assets/schloss-trauzimmer.jpg %}" alt="Trauzimmer im Schloss von der Leyen" loading="lazy">
   <figcaption>Das Trauzimmer in der ehemaligen Turmwohnung des Schlosses.</figcaption>
 </figure>
 

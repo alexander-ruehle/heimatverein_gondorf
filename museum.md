@@ -8,7 +8,7 @@ section: Entdecken
 Im Schloss von der Leyen zeigt der Verein ein Wein- und Heimatmuseum. Der Eintritt ist frei; das Museum ist in der Saison vom ersten Samstag im Mai bis zum letzten Sonntag im Oktober geöffnet (jeweils samstags & sonntags).
 
 <figure class="page-feature">
-  <img src="{{ '/assets/images/slider-weinmuseum-innenraum.jpg' | relative_url }}" alt="Innenraum des Weinmuseums in Gondorf" loading="lazy">
+  <img src="{{ site.baseurl }}/{% ministamp /assets/images/slider-weinmuseum-innenraum.jpg assets/museum-innen.jpg %}" alt="Innenraum des Weinmuseums in Gondorf" loading="lazy">
   <figcaption>Einblick in das Wein- und Heimatmuseum im Schloss von der Leyen</figcaption>
 </figure>
 

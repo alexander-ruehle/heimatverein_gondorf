@@ -8,7 +8,7 @@ section: Geschichte
 Auf dieser Seite stellt der Verein historische Beiträge aus Gondorf vor. Im Museum und Archiv werden unter anderem liturgische Handschriften, ortshistorische Literatur und die Geschichte der Kirchenglocken bewahrt.
 
 <figure class="page-feature">
-  <img src="{{ '/assets/images/slider-heimatmuseum.jpg' | relative_url }}" alt="Historische Ausstellung im Heimatmuseum Gondorf" loading="lazy">
+  <img src="{{ site.baseurl }}/{% ministamp /assets/images/slider-heimatmuseum.jpg assets/hist-museum.jpg %}" alt="Historische Ausstellung im Heimatmuseum Gondorf" loading="lazy">
   <figcaption>Das Heimatmuseum bewahrt die Geschichten und den Alltag vergangener Generationen.</figcaption>
 </figure>
 
