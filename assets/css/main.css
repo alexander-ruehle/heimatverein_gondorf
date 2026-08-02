@@ -3,13 +3,13 @@
    ========================================================================== */
 
 :root {
-    --ink: #243b35;
-    --ink-soft: #49625b;
-    --paper: #f8f5ef;
-    --cream: #eee8dc;
-    --sand: #d8c7ae;
-    --clay: #a55f3d;
-    --gold: #c78b52;
+    --ink: #003399;
+    --ink-soft: #335cae;
+    --paper: #f9f7f2;
+    --cream: #f2ede1;
+    --sand: #e0d1bc;
+    --clay: #9c5435;
+    --gold: #b38b4d;
     --white: #fff;
     --line: #d8d3c8;
     --serif: Georgia, "Times New Roman", serif;
@@ -21,7 +21,7 @@
     --space-5: 3rem;
     --space-6: 5rem;
     --max: 72rem;
-    --shadow: 0 1rem 3rem rgba(36, 59, 53, 0.1);
+    --shadow: 0 1rem 3rem rgba(0, 43, 128, 0.15);
 }
 
 /* ==========================================================================

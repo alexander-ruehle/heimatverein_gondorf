@@ -37,7 +37,7 @@ permalink: /
 <section class="section" aria-labelledby="offer-title">
   <div class="section-heading"><p class="eyebrow">Entdecken</p><h2 id="offer-title">Kultur zum Anfassen</h2></div>
   <div class="intro-grid card-grid card-grid--three">
-    <article class="card"><p class="card__number">01</p><h3>Wein- & Heimatmuseum</h3><p>Friseursalon, Schusterwerkstatt, Klassenraum, Musikzimmer, Nähstube und Elektroraum erzählen vom Alltag an der Mosel. Historische Weinbau- und Kellergeräte, Vinothek und Weine der Weingüter aus Kobern-Gondorf.</p><a class="text-link" href="{{ '/museum/heimatmuseum/' | relative_url }}">Mehr erfahren <span aria-hidden="true">→</span></a></article>
+    <article class="card"><p class="card__number">01</p><h3>Wein- & Heimatmuseum</h3><p>Friseursalon, Schusterwerkstatt, Klassenraum, Musikzimmer, Nähstube und Elektroraum erzählen vom Alltag an der Mosel. Historische Weinbau- und Kellergeräte, Vinothek und Weine der Weingüter aus Kobern-Gondorf.</p><a class="text-link" href="{{ '/museum/' | relative_url }}">Mehr erfahren <span aria-hidden="true">→</span></a></article>
     <article class="card"><p class="card__number">02</p><h3>Begegnung</h3><p>Führungen, Weinverkostungen, historische Dorfrundgänge und der monatliche offene Bürgertreff.</p><a class="text-link" href="{{ '/besuch/fuehrungen/' | relative_url }}">Angebote ansehen <span aria-hidden="true">→</span></a></article>
   </div>
 </section>
