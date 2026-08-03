@@ -6,7 +6,7 @@ section: Historisches
 description: Die Geschichte der Kirchenglocken von Gondorf von 1669 bis heute – mit Bildern aus dem Originalbeitrag des Vereins.
 ---
 
-#### Glocken als die rufende Stimme Gottes kennt die Kirche seit undenklichen Zeiten.
+### Glocken als die rufende Stimme Gottes kennt die Kirche seit undenklichen Zeiten.
 
 Wo die erste Kirche in Gondorf, etwa 600 n. Chr., stand, ist nicht überliefert.  
 Um 1400 n. Chr. soll es bereits eine Kirchenglocke in Gondorf gegeben haben. Die erste überlieferte Glocke trug die Jahreszahl 1669. In einem Inventarverzeichnis vom 13.10.1818 vermerkt der damalige Pfarrer Heinrich Pietiens 3 Glocken, die sich in einem baufälligen Wehrturm neben der damaligen Kirche befinden. Diese Kirche stand südlich der Schlossanlage und wurde 1736 konsekriert. Beim Bau der Moseleisenbahn 1874 - 1879 wurde diese Kirche 1876 mit dem Glockenturm und dem umliegenden Friedhof abgerissen. Der Glockenturm war, nach Hinweisen älterer Gondorfer Bürger, der heute noch als Teilruine vorhandene und unmittelbar neben der Bahnlinie gelegene Turm.
