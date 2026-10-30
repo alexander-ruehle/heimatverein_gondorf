@@ -17,13 +17,13 @@ Eine weitere Aufgabe ist die Archivierung, Übersetzung und Präsentation ortshi
 ## Vorstand und Ansprechpartner
 
 * Karl Groß – 1. Vorsitzender
-* Rainer Rühle – 2. Vorsitzender, Öffentlichkeitsarbeit
+* Rainer Rühle – 2. Vorsitzender
 * Reinhold Lellmann – 1. Geschäftsführer
 * Gerd Schwab – 2. Geschäftsführer
 * Walter Haag – Beisitzer
-* Georg Groß – Beisitzer
+* Georg Groß – Beisitzer, Öffentlichkeitsarbeit
 * Walter Leischner – Beisitzer, Archivar, Familienforschung
-* Rosi Gerlach – Beisitzerin
+* Bernhard Merkenich – Beisitzer
 
 ## Restaurierungen und Sanierungen
 
