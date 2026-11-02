@@ -20,7 +20,13 @@ bundle exec jekyll build
 
 ## Asset-Optimierung
 
-Das Projekt verwendet `jekyll-minibundle` für das Fingerprinting (Cache-Busting) von Assets.
+Das Projekt verwendet `jekyll-minibundle` aktuell mit `ministamp` für Fingerprinting (Cache-Busting) von CSS,
+JavaScript und eingebundenen Bildern. Die Quelldateien dafür liegen in `_assets/`, damit Jekyll sie nicht zusätzlich
+unverändert nach `_site/` kopiert. Öffentlich eingebundene PDF-Dateien und statische Bilder liegen weiterhin in `assets/`.
+
+Der `minibundle`-Tag kann mehrere CSS- bzw. JavaScript-Dateien zu je einer Datei zusammenfassen und optional mit einem
+externen Minifier verkleinern. Da es zurzeit nur eine CSS- und eine JavaScript-Datei gibt, bringt das hier noch keinen
+Vorteil. Wenn die Dateien später aufgeteilt werden, können sie vor der Auslieferung gebündelt werden.
 
 **Hinweis:** `jekyll-minibundle` benötigt Ruby >= 2.7.0.
 
@@ -31,7 +37,7 @@ Das Projekt verwendet `jekyll-minibundle` für das Fingerprinting (Cache-Busting
 - `_data/site.yml` ist die zentrale Quelle für Kontaktdaten und Öffnungszeiten.
 - `_data/navigation.yml` und `_data/footer.yml` steuern die Navigation.
 - `_termine/` enthält zukünftige Veranstaltungen mit Front Matter `title`, `date` und optional `location`.
-- `assets/css/main.css` enthält das selbst geschriebene, mobile-first Vanilla CSS.
+- `_assets/css/main.css` enthält das selbst geschriebene, mobile-first Vanilla CSS.
 - `assets/images/` enthält nur eigene oder freigegebene Bilder. Vorhandene Bilder erst nach Rechteprüfung austauschen
   und mit sinnvollem Alt-Text verwenden.
 

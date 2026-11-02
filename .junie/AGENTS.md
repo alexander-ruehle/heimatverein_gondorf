@@ -109,7 +109,7 @@ if __name__ == '__main__':
 
 - **HTML/Liquid**: Follow Jekyll's default patterns. Use `_includes` for reusable components and `_layouts` for page
   structures.
-- **CSS**: The project uses **mobile-first Vanilla CSS** located in `assets/css/main.css`. Avoid adding CSS frameworks
+- **CSS**: The project uses **mobile-first Vanilla CSS** located in `_assets/css/main.css`. Avoid adding CSS frameworks
   unless necessary; stick to the existing custom styles.
 - **Data-Driven**: Content like opening hours, contact details, and navigation is managed in `_data/*.yml`. Always
   update these files instead of hardcoding values in templates.
