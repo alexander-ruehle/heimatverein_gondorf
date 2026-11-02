@@ -22,7 +22,8 @@ bundle exec jekyll build
 
 Das Projekt verwendet `jekyll-minibundle` aktuell mit `ministamp` für Fingerprinting (Cache-Busting) von CSS,
 JavaScript und eingebundenen Bildern. Die Quelldateien dafür liegen in `_assets/`, damit Jekyll sie nicht zusätzlich
-unverändert nach `_site/` kopiert. Öffentlich eingebundene PDF-Dateien und statische Bilder liegen weiterhin in `assets/`.
+unverändert nach `_site/` kopiert. PDF-Dateien und statische Dateien, die unter einer festen URL erreichbar sein sollen,
+liegen weiterhin in `assets/`.
 
 Der `minibundle`-Tag kann mehrere CSS- bzw. JavaScript-Dateien zu je einer Datei zusammenfassen und optional mit einem
 externen Minifier verkleinern. Da es zurzeit nur eine CSS- und eine JavaScript-Datei gibt, bringt das hier noch keinen
@@ -38,8 +39,8 @@ Vorteil. Wenn die Dateien später aufgeteilt werden, können sie vor der Auslief
 - `_data/navigation.yml` und `_data/footer.yml` steuern die Navigation.
 - `_termine/` enthält zukünftige Veranstaltungen mit Front Matter `title`, `date` und optional `location`.
 - `_assets/css/main.css` enthält das selbst geschriebene, mobile-first Vanilla CSS.
-- `assets/images/` enthält nur eigene oder freigegebene Bilder. Vorhandene Bilder erst nach Rechteprüfung austauschen
-  und mit sinnvollem Alt-Text verwenden.
+- `_assets/images/` enthält die per `ministamp` eingebundenen Bilder, einschließlich des Vereinswappens.
+- `assets/documents/` enthält die öffentlich verlinkten PDF-Dateien.
 
 Termine werden in `_termine/` als Markdown-Datei angelegt. Für vergangene Termine kann später ein Archiv ergänzt werden;
 die Sortierung der aktuellen Liste erfolgt über das Veranstaltungsdatum.
